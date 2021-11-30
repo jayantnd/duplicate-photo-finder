@@ -19,7 +19,7 @@ Any PR will be most welcome for improvement
 # How to use:
 open the script in script editor
 open Photos app and select the photos you want to find duplicates in it.
-then run click on the run button.
+then click on the run button.
 
 # How to use in Terminal:
 go to the folder in Terminal where you downloaded this script
