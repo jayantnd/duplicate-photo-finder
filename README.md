@@ -13,7 +13,7 @@ First it iterate all the selected Photos, them sort them using quick sort algori
 then it itereate throught the list again to group the similar named photos and place them in an Album in "Duplicate Photos" folder
 
 # Future improvements: 
-This can be improved by using a dictionary to group the same named photos to avoid one iteration
+This can be improved by using a dictionary to group the same named photos to avoid one iteration.
 Any PR will be most welcome for improvement
 
 # How to use:
