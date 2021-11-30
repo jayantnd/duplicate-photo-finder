@@ -34,7 +34,14 @@ open Photos app and select the photos you want to find duplicates in it.
 run osascript duplicate-photo-finder.scpt
 
 
+
+
+
 Sit back and relax till the script complete its job.
 
 It will take some time based on the count of phots seleceted in Photos App
 
+
+
+
+Please give it a star if you find this tool useful
